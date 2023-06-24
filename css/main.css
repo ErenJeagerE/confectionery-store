@@ -1,0 +1,621 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+
+}
+main{
+    background-image: url(/img/1639751551_112-catherineasquithgallery-com-p-rozovii-sladkii-fon-195\ 1\ \(1\).png);
+    width: 100%;
+    height: 800px;
+    background-size:  cover;
+    background-position: center;
+    border: 1px solid;
+    position: absolute;
+    background-color: rgb(253, 242, 242);
+
+
+left: 0px;
+top: 127px;
+
+}
+
+
+
+
+nav {
+   
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    padding: 5px 90px;
+   color: rgb(238, 227, 227);
+   margin-top: 0;
+
+   
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+li{
+    float: right;
+    
+}
+li a {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 40px 50px;
+    text-decoration: none;
+   
+    font-weight: 300;
+    font-size: 23px;
+ 
+    line-height: 29px;
+    font-family: sans-serif;
+
+    
+}
+img{
+    position: absolute;
+width: 187px;
+height: 79px;
+left: 66px;
+top: 30px;
+
+}
+
+.a{
+    position: absolute;
+width: 251px;
+height: 213px;
+left: 14%;
+top: 1050px;
+
+background: #D1E6E3;
+border-radius: 17px;
+
+font-size: 29px;
+color: rgb(41, 40, 40);
+align-items: center;
+font-family: cursive;
+font-weight: 20;
+text-decoration: none;
+display: grid;
+
+
+}
+.b{
+    position: absolute;
+width: 251px;
+height: 213px;
+left: 43.2%;
+top: 1050px;
+
+background: #D1E6E3;
+border-radius: 17px;
+}
+.c{
+    position: absolute;
+width: 251px;
+height: 213px;
+left: 1370px;
+top: 1050px;
+
+background: #D1E6E3;
+border-radius: 17px;
+}
+.d{
+    position: absolute;
+width: 163px;
+height: 152px;
+left: 314px;
+top: 1000px;
+
+background: url(/img/Ellipse\ 8.png)
+}
+.e{
+    position: absolute;
+width: 163px;
+height: 152px;
+left: 865px;
+top: 1000px;
+background: url(/img/Ellipse\ 8\ \(1\).png);
+}
+.f{
+    position: absolute;
+width: 163px;
+height: 152px;
+left: 1415px;
+top: 1000px;
+background: url(/img/Ellipse\ 8\ \(2\).png);
+}
+.m{
+
+    position: absolute;
+width: 251px;
+height: 213px;
+left: 14%;
+top: 1450px;
+background: #D1E6E3;
+border-radius: 17px;
+}
+.i{
+    position: absolute;
+width: 251px;
+height: 213px;
+left: 43.2%;
+top: 1450px;
+
+background: #D1E6E3;
+border-radius: 17px;
+
+}
+.k{
+    position: absolute;
+width: 251px;
+height: 213px;
+left: 1370px;
+top: 1450px;
+
+background: #D1E6E3;
+border-radius: 17px;
+}
+.mikasa{
+    position: absolute;
+width: 163px;
+height: 152px;
+left: 314px;
+top: 1389px;
+background: url(/img/Ellipse\ 5.png)
+}
+.eren{
+    position: absolute;
+    width: 163px;
+    height: 152px;
+    left: 865px;
+    top: 1389px;
+    background: url(/img/Ellipse\ 8\ \(4\).png);
+}
+.armin{
+    position: absolute;
+    width: 163px;
+    height: 152px;
+    left: 1415px;
+    top: 1389px;
+    background: url(/img/Ellipse\ 8\ \(3\).png);
+}
+h2{
+    position: absolute;
+width: 273px;
+height: 42px;
+left: 870px;
+top: 870px;
+
+font-family: cursive;
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 42px;
+text-decoration: none;
+
+    font-size: 35px;
+ 
+    line-height: 29px;
+    
+
+    
+}
+.jean{
+    position: absolute;
+width: 370px;
+height: 340px;
+left: 125px;
+top: 205px;
+
+background: #B6D0D0;
+border-radius: 11px;
+clip-path: polygon(0 0, 100% 0%, 100% 54%, 49% 74%, 0 54%);
+
+}
+footer{
+    position: absolute;
+width: 100%;
+height: 400px;
+left: 0px;
+top: 2150px;
+
+background: #D3D3D3;
+border: 1px solid;
+
+
+
+
+
+
+}
+
+
+
+.p1{
+
+    position: absolute;
+width: 161px;
+height: 38px;
+left: 16.1%;
+top: 1300px;
+font-size: 25px;
+font-family:  cursive ;
+transition: 1s;
+border: 1px solid; 
+border-radius: 15px;
+font-style: normal;
+font-weight: 300;
+text-align: center;
+}
+.p:hover{
+    transform: scale(1.2);
+}
+
+.p2{
+    position: absolute;
+    width: 161px;
+    height: 38px;
+    font-size: 25px;
+font-family: cursive;
+transition: 1s;
+left: 45.6%;
+top: 1300px;
+border: 1px solid; 
+border-radius: 15px;
+text-align: center;
+
+}
+
+.p3{
+    position: absolute;
+    width: 161px;
+    height: 38px;
+    font-size: 25px;
+font-family: cursive;
+transition: 1s;
+left: 1420px;
+top: 1300px;
+border: 1px solid; 
+border-radius: 15px;
+text-align: center;
+}
+
+.p4{
+    position: absolute;
+    width: 161px;
+    height: 38px;
+    font-size: 25px;
+font-family: cursive;
+transition: 1s;
+left: 1420px;
+top: 1700px;
+border: 1px solid; 
+border-radius: 15px;
+text-align: center;
+}
+.p5{
+    position: absolute;
+    width:161px;
+    height: 38px;
+    font-size: 25px;
+font-family: cursive;
+transition: 1s; 
+left:  45.6%;
+top: 1700px; 
+border: 1px solid; 
+border-radius: 15px;
+text-align: center;
+}
+.p6{
+    position: absolute;
+    width: 130px;
+height: 38px;
+    font-size: 25px;
+font-family: cursive;
+transition: 1s; 
+left:  16.1% ;
+top: 1700px;
+border: 1px solid; 
+border-radius: 15px;
+box-sizing: border-box;
+width: 161px;
+height: 38px;
+text-align: center;
+}
+.q{
+    font-size: 22px;
+font-weight: 300;
+    font-family: cursive;
+   
+}
+.p7{
+    position: absolute;
+width: 400px;
+height: 50px;
+left: 45px;
+top: 170px;
+font-size: 25px;
+font-family: sans-serif;
+color: #454545;
+}
+.ch{
+    position: absolute;
+width: 188.01px;
+height: 0px;
+left: 462px;
+top: 225px;
+
+border: 1px solid #454545;
+transform: rotate(90.61deg);
+
+}
+.p8{
+    position: absolute;
+
+
+left: 650px;
+top: 220px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 25px;
+line-height: 19px;
+color: #454545;
+font-family: sans-serif;
+}
+.chi{
+    position: absolute;
+width: 188.01px;
+height: 0px;
+left: 890px;
+top: 225px;
+
+border: 1px solid #454545;
+transform: rotate(90.61deg);
+  
+}
+.p9{
+    position: absolute;
+width: 160px;
+height: 30px;
+left: 1080px;
+top: 220px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 25px;
+line-height: 24px;
+
+}
+
+.chii{
+    position: absolute;
+    width: 188.01px;
+    height: 0px;
+    left: 1250px;
+    top: 225px;
+    
+    border: 1px solid #454545;
+    transform: rotate(90.61deg);
+
+}
+.chik{
+    background-image: url(/img/123.png);
+    position: absolute;
+width: 68px;
+height: 63px;
+left: 748px;
+top: 110px;
+
+opacity: 0.7;
+}
+.chiik{
+    background-image: url(/img/122.png);
+    position: absolute;
+width: 68px;
+height: 59px;
+left: 1138px;
+top: 113px;
+
+opacity: 0.7;
+}
+
+.border{
+    padding: 5px;
+      background: linear-gradient(110deg, rgb(230, 208, 212) 33%, rgba(0, 0, 0, 0) 33%), linear-gradient(110deg, #B6D0D0 34%, #B6D0D0 34%);
+    background-size: 400% 400%;
+    height: 400px;
+    background-position: 25% 50%;
+    -webkit-animation: Gradient 15s ease infinite;
+    -moz-animation: Gradient 5s ease infinite;
+    border-radius: 11px;
+clip-path: polygon(0 0, 100% 0%, 100% 54%, 49% 74%, 0 54%);
+  }
+  .inner-cutout{
+    padding: 40px 0;
+    display: block;
+    background-color:#000000;/*#ff6f69*/
+      
+    margin: 2%;
+    padding-bottom: 40px;
+    height: 300px;
+    background: radial-gradient(#a1d4d4, #e9dce5);
+     background-size: 300%;
+    background-position:50% 50%;
+  
+  }
+  .knockout {
+    
+    vertical-align: middle;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size:40pt;
+    color: rgb(8, 8, 19);
+    color: #240f0f;
+    background: linear-gradient(110deg, #b7f4fc 33%, rgba(0, 0, 0, 0) 33%), linear-gradient(110deg, #ffffff 34%, #e6b9b9 34%);
+    background-size: 400%;
+     -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+  }
+  .knockout{
+      animation: Gradient 5s ease infinite;
+      -webkit-animation: Gradient 15s ease infinite;
+      -moz-animation: Gradient 5s ease infinite;
+  }
+  
+  @-webkit-keyframes Gradient {
+    0% {
+      background-position: 30% 50%
+    }
+    50% {
+      background-position: 25% 50%
+    }
+    100% {
+      background-position: 30% 50%
+    }
+    
+  }
+  
+  
+  
+  .main{
+    width: 500px;
+    height: 800px;
+    margin-left: 7%;
+    margin-right:40%;
+    margin-top: 8%;
+    border-radius: 11px;
+
+  }
+  
+  .pp {
+    position:absolute;
+    top:50%;
+    left:86%;
+    transform:translate(-50%,-50%);
+    margin:0;
+    padding:0;
+    display:flex;
+  }
+  .pp .ppp {
+    list-style:none;
+  }
+  .pp .ppp a {
+    display:block;
+    position:relative;
+    width:100px;
+    height:100px;
+    line-height:100px;
+    font-size:40px;
+    text-align:center;
+    text-decoration:none;
+    color:#404040;
+    margin: 0 30px;
+    transition:.5s;
+  }
+  .pp .ppp a span {
+    position:absolute;
+    transition: transform .5s;
+  }
+  .pp .ppp a span:nth-child(1),
+  ul li a span:nth-child(3){
+    width:100%;
+    height:3px;
+    background:#404040;
+  }
+  .pp .ppp a span:nth-child(1) {
+    top:0;
+    left:0;
+    transform-origin: right;
+  }
+  .pp .ppp a:hover span:nth-child(1) {
+    transform: scaleX(0);
+    transform-origin: left;
+    transition:transform .5s;
+  }
+  
+  .pp .ppp a span:nth-child(3) {
+    bottom:0;
+    left:0;
+    transform-origin: left;
+  }
+  .pp .ppp a:hover span:nth-child(3) {
+    transform: scaleX(0);
+    transform-origin: right;
+    transition:transform .5s;
+  }
+  
+  .pp .ppp a span:nth-child(2),
+  ul li a span:nth-child(4){
+    width:3px;
+    height:100%;
+    background:#404040;
+  }
+  .pp .ppp a span:nth-child(2) {
+    top:0;
+    left:0;
+    transform:scale(0);
+    transform-origin: bottom;
+  }
+  .pp .ppp a:hover span:nth-child(2) {
+    transform: scale(1);
+    transform-origin: top;
+    transition:transform .5s;
+  }
+  .pp .ppp a span:nth-child(4) {
+    top:0;
+    right:0;
+    transform:scale(0);
+    transform-origin: top;
+  }
+  .pp .ppp a:hover span:nth-child(4) {
+    transform: scale(1);
+    transform-origin: bottom;
+    transition:transform .5s;
+  }
+  
+  .facebook:hover {
+    color: #3b5998;
+  
+  }
+  .facebook:hover span { 
+    background: #3b5998;
+     
+  }
+  .twitter:hover {
+    color: #1da1f2;
+  }
+  .twitter:hover span { 
+    background: #1da1f2;
+  }
+  .instagram:hover {
+    color: #c32aa3;
+  }
+  .instagram:hover span { 
+    background: #c32aa3;
+  }
+ 
+  
+  ul li a .twitter {
+    color: #1da1f2;
+
+  }
+  ul li a:hover:nth-child(3) {
+    color: #c32aa3;
+  }
+  ul li a:hover:nth-child(4) {
+    color: #dd4b39;
+  }
